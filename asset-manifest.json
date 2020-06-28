@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e028e7be.chunk.css",
-    "main.js": "/static/js/main.2e5d9d2c.chunk.js",
-    "main.js.map": "/static/js/main.2e5d9d2c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0f5a391d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0f5a391d.js.map",
-    "static/css/2.3cb76441.chunk.css": "/static/css/2.3cb76441.chunk.css",
-    "static/js/2.78ef3765.chunk.js": "/static/js/2.78ef3765.chunk.js",
-    "static/js/2.78ef3765.chunk.js.map": "/static/js/2.78ef3765.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.462541b01a46772ab1dad618955efdc9.js": "/precache-manifest.462541b01a46772ab1dad618955efdc9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3cb76441.chunk.css.map": "/static/css/2.3cb76441.chunk.css.map",
-    "static/css/main.e028e7be.chunk.css.map": "/static/css/main.e028e7be.chunk.css.map",
-    "static/js/2.78ef3765.chunk.js.LICENSE.txt": "/static/js/2.78ef3765.chunk.js.LICENSE.txt"
+    "main.css": "/trie-demo/static/css/main.e028e7be.chunk.css",
+    "main.js": "/trie-demo/static/js/main.070b8870.chunk.js",
+    "main.js.map": "/trie-demo/static/js/main.070b8870.chunk.js.map",
+    "runtime-main.js": "/trie-demo/static/js/runtime-main.3cc9a3d9.js",
+    "runtime-main.js.map": "/trie-demo/static/js/runtime-main.3cc9a3d9.js.map",
+    "static/css/2.3cb76441.chunk.css": "/trie-demo/static/css/2.3cb76441.chunk.css",
+    "static/js/2.78ef3765.chunk.js": "/trie-demo/static/js/2.78ef3765.chunk.js",
+    "static/js/2.78ef3765.chunk.js.map": "/trie-demo/static/js/2.78ef3765.chunk.js.map",
+    "index.html": "/trie-demo/index.html",
+    "precache-manifest.24ea45adf53531b16b761375b1326fba.js": "/trie-demo/precache-manifest.24ea45adf53531b16b761375b1326fba.js",
+    "service-worker.js": "/trie-demo/service-worker.js",
+    "static/css/2.3cb76441.chunk.css.map": "/trie-demo/static/css/2.3cb76441.chunk.css.map",
+    "static/css/main.e028e7be.chunk.css.map": "/trie-demo/static/css/main.e028e7be.chunk.css.map",
+    "static/js/2.78ef3765.chunk.js.LICENSE.txt": "/trie-demo/static/js/2.78ef3765.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f5a391d.js",
+    "static/js/runtime-main.3cc9a3d9.js",
     "static/css/2.3cb76441.chunk.css",
     "static/js/2.78ef3765.chunk.js",
     "static/css/main.e028e7be.chunk.css",
-    "static/js/main.2e5d9d2c.chunk.js"
+    "static/js/main.070b8870.chunk.js"
   ]
 }
